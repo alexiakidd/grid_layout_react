@@ -15,7 +15,7 @@ function App() {
 			<div className="header">header</div>
 			<div className="nav">nav</div>
 			<div className="content">content</div>
-			<div className="footer">footer</div>
+			<div className="footer">footer </div>
 		</div>
 	)
 }
